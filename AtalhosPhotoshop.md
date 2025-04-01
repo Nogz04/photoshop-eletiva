@@ -46,9 +46,10 @@
 
 > **" pressionar ALT e selecionar a camada para aplicar a saturação":** Aplica saturação em uma camada especifica
 
-
-<h2>TAREFA AULA 03</h2>
-
 > Apertar CTRL + I para inverter ao selecionar fundo para eliminar pedras
 
 > FileCR
+
+<h2>SITE</h2>
+
+Color Adobe
